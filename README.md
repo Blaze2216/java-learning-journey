@@ -15,7 +15,8 @@ This repository contains my Java learning projects, organized by concepts and di
 ```
 JAVA/
 ├── 01-basics/                  # Java fundamentals
-│   └── HelloWorld.java        # Classic first program
+│   ├── HelloWorld.java        # Classic first program
+│   └── Message.java           # User input and string handling
 ├── 02-control-structures/      # If-else, switch, ternary operators
 │   └── OddEven.java           # Check if number is odd or even
 ├── 03-loops/                   # For, while, do-while loops
@@ -36,16 +37,19 @@ JAVA/
 1. **HelloWorld.java** - The classic first program
    - Concepts: Basic syntax, System.out.println()
    
-2. **OddEven.java** - Determine if a number is odd or even
+2. **Message.java** - User input and string handling
+   - Concepts: Scanner class, user input, string operations, resource management
+   
+3. **OddEven.java** - Determine if a number is odd or even
    - Concepts: Modulo operator, ternary operator, conditional logic
    
-3. **IsPrime.java** - Check if a number is prime
+4. **IsPrime.java** - Check if a number is prime
    - Concepts: For loops, conditional statements, mathematical logic
    
-4. **Palindrome.java** - Check if a number reads the same forwards and backwards
+5. **Palindrome.java** - Check if a number reads the same forwards and backwards
    - Concepts: While loops, mathematical operations, variable manipulation
    
-5. **ReverseNumber.java** - Reverse the digits of a number
+6. **ReverseNumber.java** - Reverse the digits of a number
    - Concepts: While loops, modulo and division operations
 
 ### 🔄 Currently Learning
