@@ -25,12 +25,21 @@ This folder contains programs that demonstrate repetitive operations in Java.
   - Mathematical operations (modulo and division)
   - Building numbers digit by digit
 
+### Factorial.java
+- **Purpose**: Calculate the factorial of a number (n!)
+- **Concepts**: 
+  - For loops with accumulator pattern
+  - Mathematical calculations
+  - Multiplicative operations
+
 ## Key Learning Points
 
 1. **Prime Number Logic**: A prime number has exactly 2 divisors (1 and itself)
 2. **Digit Extraction**: Use `num % 10` to get the last digit
 3. **Digit Removal**: Use `num /= 10` to remove the last digit
 4. **Number Building**: `result = result * 10 + digit`
+5. **Factorial Pattern**: Use accumulator pattern with multiplication
+6. **Loop Initialization**: Always initialize accumulator variables properly
 
 ## Algorithm Patterns
 

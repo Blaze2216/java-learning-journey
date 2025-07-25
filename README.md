@@ -22,7 +22,8 @@ JAVA/
 ├── 03-loops/                   # For, while, do-while loops
 │   ├── IsPrime.java           # Check if number is prime
 │   ├── Palindrome.java        # Check if number is palindrome
-│   └── ReverseNumber.java     # Reverse digits of a number
+│   ├── ReverseNumber.java     # Reverse digits of a number
+│   └── Factorial.java         # Calculate factorial of a number
 ├── 04-arrays/                  # Array operations (coming soon)
 ├── 05-strings/                 # String manipulation (coming soon)
 ├── 06-methods/                 # Functions and methods (coming soon)
@@ -51,6 +52,9 @@ JAVA/
    
 6. **ReverseNumber.java** - Reverse the digits of a number
    - Concepts: While loops, modulo and division operations
+
+6. **Factorial.java** - Calculate the factorial of a number
+   - Concepts: For loops, accumulator pattern, mathematical calculations
 
 ### 🔄 Currently Learning
 
@@ -103,6 +107,7 @@ java ProgramName
 | Day 3 | IsPrime | For loops, prime logic | ✅ Complete |
 | Day 4 | Palindrome | While loops, number reversal | ✅ Complete |
 | Day 5 | ReverseNumber | Mathematical operations | ✅ Complete |
+| Day 6 | Factorial | For loops, accumulator pattern | ✅ Complete |
 
 ## 🤝 Connect With Me
 
