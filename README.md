@@ -16,11 +16,13 @@ This repository contains my Java learning projects, organized by concepts and di
 JAVA/
 ├── 01-basics/                  # Java fundamentals
 │   ├── HelloWorld.java        # Classic first program
-│   └── Message.java           # User input and string handling
+│   ├── Message.java           # User input and string handling
+│   └── SwapNumbers.java       # Variable swapping technique
 ├── 02-control-structures/      # If-else, switch, ternary operators
 │   └── OddEven.java           # Check if number is odd or even
 ├── 03-loops/                   # For, while, do-while loops
 │   ├── IsPrime.java           # Check if number is prime
+│   ├── Prime.java             # Prime checker with user input
 │   ├── Palindrome.java        # Check if number is palindrome
 │   ├── Palindrome2.java       # Enhanced palindrome checker
 │   ├── ReverseNumber.java     # Reverse digits of a number
@@ -44,28 +46,34 @@ JAVA/
 2. **Message.java** - User input and string handling
    - Concepts: Scanner class, user input, string operations, resource management
    
-3. **OddEven.java** - Determine if a number is odd or even
+3. **SwapNumbers.java** - Variable swapping technique
+   - Concepts: Variable manipulation, temporary variables, multiple integer inputs
+   
+4. **OddEven.java** - Determine if a number is odd or even
    - Concepts: Modulo operator, ternary operator, conditional logic
    
-4. **IsPrime.java** - Check if a number is prime
+5. **IsPrime.java** - Check if a number is prime
    - Concepts: For loops, conditional statements, mathematical logic
    
-5. **Palindrome.java** - Check if a number reads the same forwards and backwards
+6. **Prime.java** - Interactive prime number checker
+   - Concepts: User input with loops, divisor counting, interactive programming
+   
+7. **Palindrome.java** - Check if a number reads the same forwards and backwards
    - Concepts: While loops, mathematical operations, variable manipulation
    
-6. **ReverseNumber.java** - Reverse the digits of a number
+8. **ReverseNumber.java** - Reverse the digits of a number
    - Concepts: While loops, modulo and division operations
 
-7. **Factorial.java** - Calculate the factorial of a number
+9. **Factorial.java** - Calculate the factorial of a number
    - Concepts: For loops, accumulator pattern, mathematical calculations
 
-8. **Factorial2.java** - Enhanced factorial calculator with input validation
+10. **Factorial2.java** - Enhanced factorial calculator with input validation
    - Concepts: Advanced input handling, error checking, improved algorithms
 
-9. **Palindrome2.java** - Enhanced palindrome checker with better logic
+11. **Palindrome2.java** - Enhanced palindrome checker with better logic
    - Concepts: Improved algorithms, code optimization, enhanced user experience
 
-10. **ReverseNumber2.java** - Enhanced number reversal with additional features
+12. **ReverseNumber2.java** - Enhanced number reversal with additional features
     - Concepts: Advanced number manipulation, improved code structure
 
 ### 🔄 Currently Learning
@@ -84,10 +92,12 @@ JAVA/
 
 ## 🏆 Key Achievements
 
-- ✅ **10 Programs Completed** - From basic output to advanced algorithms
+- ✅ **12 Programs Completed** - From basic output to advanced algorithms
 - ✅ **User Input Mastery** - Successfully implemented Scanner for interactive programs
+- ✅ **Variable Manipulation** - Mastered swapping techniques and temporary variables
 - ✅ **Loop Expertise** - Mastered for, while, and do-while loops
 - ✅ **Mathematical Logic** - Implemented prime checking, palindromes, and factorials
+- ✅ **Interactive Programming** - Created user-friendly programs with input validation
 - ✅ **Code Evolution** - Created enhanced versions showing learning progression
 - ✅ **Best Practices** - Consistent commenting, documentation, and resource management
 
@@ -124,14 +134,16 @@ java ProgramName
 |------|---------|------------------|--------|
 | Day 1 | HelloWorld | Basic syntax, output | ✅ Complete |
 | Day 2 | Message | Scanner, user input, resource management | ✅ Complete |
-| Day 3 | OddEven | Ternary operator, modulo | ✅ Complete |
-| Day 4 | IsPrime | For loops, prime logic | ✅ Complete |
-| Day 5 | Palindrome | While loops, number reversal | ✅ Complete |
-| Day 6 | ReverseNumber | Mathematical operations | ✅ Complete |
-| Day 7 | Factorial | For loops, accumulator pattern | ✅ Complete |
-| Day 8 | Factorial2 | Enhanced algorithms, input validation | ✅ Complete |
-| Day 9 | Palindrome2 | Code optimization, improved logic | ✅ Complete |
-| Day 10 | ReverseNumber2 | Advanced number manipulation | ✅ Complete |
+| Day 3 | SwapNumbers | Variable manipulation, swapping technique | ✅ Complete |
+| Day 4 | OddEven | Ternary operator, modulo | ✅ Complete |
+| Day 5 | IsPrime | For loops, prime logic | ✅ Complete |
+| Day 6 | Prime | Interactive prime checking, user input loops | ✅ Complete |
+| Day 7 | Palindrome | While loops, number reversal | ✅ Complete |
+| Day 8 | ReverseNumber | Mathematical operations | ✅ Complete |
+| Day 9 | Factorial | For loops, accumulator pattern | ✅ Complete |
+| Day 10 | Factorial2 | Enhanced algorithms, input validation | ✅ Complete |
+| Day 11 | Palindrome2 | Code optimization, improved logic | ✅ Complete |
+| Day 12 | ReverseNumber2 | Advanced number manipulation | ✅ Complete |
 
 ## 🤝 Connect With Me
 

@@ -44,6 +44,30 @@ Hello Java World!
 Your message to everyone: Hello Java World!
 ```
 
+### SwapNumbers.java
+- **Purpose**: Demonstrates variable swapping and manipulation
+- **Concepts**: 
+  - Scanner class for multiple integer inputs
+  - Variable assignment and manipulation
+  - Temporary variable technique for swapping
+  - `nextInt()` for reading integers
+  - Basic mathematical operations
+
+**How to run:**
+```bash
+javac SwapNumbers.java
+java SwapNumbers
+```
+
+**Expected Output:**
+```
+Enter two numbers: 
+5 10
+You entered Num1: 5 and Num2: 10
+Swapping numbers...........
+After swapping - Num1 = 10, Num2 = 5
+```
+
 ## Key Learning Points
 
 1. Every Java program must have a `main` method
@@ -53,3 +77,6 @@ Your message to everyone: Hello Java World!
 5. `Scanner` class is used to read user input from console
 6. Always close Scanner objects to free up system resources
 7. `nextLine()` reads an entire line including spaces
+8. `nextInt()` reads integer values from user input
+9. Variable swapping requires a temporary variable to avoid data loss
+10. Multiple inputs can be read sequentially with Scanner methods

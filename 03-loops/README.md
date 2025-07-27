@@ -32,6 +32,15 @@ This folder contains programs that demonstrate repetitive operations in Java.
   - Mathematical calculations
   - Multiplicative operations
 
+### Prime.java (with user input)
+- **Purpose**: Check if a user-entered number is prime using divisor counting
+- **Concepts**: 
+  - Scanner class for user input
+  - For loops with counter variables
+  - Modulo operator for divisibility checking
+  - Prime number algorithm with divisor counting
+  - Interactive user experience
+
 ## Key Learning Points
 
 1. **Prime Number Logic**: A prime number has exactly 2 divisors (1 and itself)
