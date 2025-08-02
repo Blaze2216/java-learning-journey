@@ -17,7 +17,8 @@ JAVA/
 ├── 01-basics/                  # Java fundamentals
 │   ├── HelloWorld.java        # Classic first program
 │   ├── Message.java           # User input and string handling
-│   └── SwapNumbers.java       # Variable swapping technique
+│   ├── SwapNumbers.java       # Variable swapping technique
+│   └── Numbers.java           # Print numbers from 1 to user input
 ├── 02-control-structures/      # If-else, switch, ternary operators
 │   └── OddEven.java           # Check if number is odd or even
 ├── 03-loops/                   # For, while, do-while loops
@@ -28,7 +29,9 @@ JAVA/
 │   ├── ReverseNumber.java     # Reverse digits of a number
 │   ├── ReverseNumber2.java    # Enhanced number reversal
 │   ├── Factorial.java         # Calculate factorial of a number
-│   └── Factorial2.java        # Enhanced factorial calculator
+│   ├── Factorial2.java        # Enhanced factorial calculator
+│   ├── FibonacciSeries.java   # Print Fibonacci sequence
+│   └── SumOfDigits.java       # Sum the digits of a number
 ├── 04-arrays/                  # Array operations (coming soon)
 ├── 05-strings/                 # String manipulation (coming soon)
 ├── 06-methods/                 # Functions and methods (coming soon)
@@ -37,6 +40,8 @@ JAVA/
 ```
 
 ## 🎯 Current Progress
+
+All programs are now organized by topic. New files are added to their respective folders, and all code is well-commented for clarity and learning.
 
 ### ✅ Completed Programs
 
@@ -76,6 +81,15 @@ JAVA/
 12. **ReverseNumber2.java** - Enhanced number reversal with additional features
     - Concepts: Advanced number manipulation, improved code structure
 
+13. **Numbers.java** - Print numbers from 1 to user input
+    - Concepts: For loops, user input, basic output
+
+14. **FibonacciSeries.java** - Print Fibonacci sequence up to user input
+    - Concepts: While loops, mathematical series, user input
+
+15. **SumOfDigits.java** - Sum the digits of a number
+    - Concepts: Modulo and division operations, accumulator pattern
+
 ### 🔄 Currently Learning
 
 - Advanced loop patterns and optimizations
@@ -92,7 +106,7 @@ JAVA/
 
 ## 🏆 Key Achievements
 
-- ✅ **12 Programs Completed** - From basic output to advanced algorithms
+- ✅ **15 Programs Completed** - From basic output to advanced algorithms
 - ✅ **User Input Mastery** - Successfully implemented Scanner for interactive programs
 - ✅ **Variable Manipulation** - Mastered swapping techniques and temporary variables
 - ✅ **Loop Expertise** - Mastered for, while, and do-while loops
@@ -144,6 +158,9 @@ java ProgramName
 | Day 10 | Factorial2 | Enhanced algorithms, input validation | ✅ Complete |
 | Day 11 | Palindrome2 | Code optimization, improved logic | ✅ Complete |
 | Day 12 | ReverseNumber2 | Advanced number manipulation | ✅ Complete |
+| Day 13 | Numbers | For loops, user input, basic output | ✅ Complete |
+| Day 14 | FibonacciSeries | While loops, mathematical series, user input | ✅ Complete |
+| Day 15 | SumOfDigits | Modulo and division operations, accumulator pattern | ✅ Complete |
 
 ## 🤝 Connect With Me
 
